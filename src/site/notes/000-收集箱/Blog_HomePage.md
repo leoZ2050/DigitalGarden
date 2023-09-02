@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/blog-home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"\"/Index.md\"","permalink":"//index/","tags":["gardenEntry"]}
 ---
 
 ## 分享
