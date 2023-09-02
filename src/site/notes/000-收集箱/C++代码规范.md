@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000/c/","tags":["GTD/Source"]}
+{"dg-publish":true,"dg-path":"Shares/C++代码规范.md","permalink":"/shares/c/","tags":["GTD/Source"]}
 ---
 
 
