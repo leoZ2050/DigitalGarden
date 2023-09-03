@@ -2,7 +2,7 @@ remote_theme: sighingnow/jekyll-gitbook
 title: Leo's Homepage
 description: Interesting thoughts share with the world
 
-syntax_highlighter_style: molokai
+syntax_highlighter_style: colorful
 toc:
     enabled: true
     h_min: 1
