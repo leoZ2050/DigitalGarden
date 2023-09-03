@@ -6,7 +6,7 @@ LatestKeyDate: None
 Comments: 
 share: true
 sharetitle: 2023-09-03-C-Plus-Writing-Rules
-sharepath: /doc 
+sharepath: doc 
 ---
 
 # C++代码规范

@@ -6,7 +6,7 @@ LatestKeyDate:
 Comments: Template
 share: true
 sharetitle: 2023-09-03-Build-Blog-Online
-sharepath: /doc
+sharepath: doc
 ---
 
 # 使用Obsidian+Github Pages部署在线博客
