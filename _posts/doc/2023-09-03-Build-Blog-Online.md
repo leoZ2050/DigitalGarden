@@ -12,6 +12,12 @@ mermaid: true
 ---
 
 # 使用Obsidian+GitHubPages部署在线博客
+
+> ##### by Leo@GitHub
+> ##### Latest Update: 2023/09/07    
+{: .block-tip }
+
+
 > 本方案可实现的功能包括：
 > 1. 使用Obsidian进行内容创作，并且决定将哪些内容上传至博客中。
 > 2. 使用GitHub Pages在线编译并发布博客内容。
