@@ -8,6 +8,7 @@ share: true
 title: 使用Obsidian+GitHub Pages部署在线博客
 sharetitle: 2023-09-03-Build-Blog-Online
 sharepath: doc
+mermaid: true
 ---
 
 # 使用Obsidian+GitHubPages部署在线博客
@@ -43,7 +44,7 @@ Obsidian --> GitHub-Pages
 
 **Step2**：打开仓库页面的“Settings”，在左侧选项卡中选择“Code and automation”卡组下的“Pages”，即可打开GitHub Pages的配置页面。
 
-**Step3**：在“Build and deployment”部分的“Suorce”处选择GitHub Actions即可设置使用 GitHub Actions 工作流来发布站点，笔者使用了GitHub提供的入门工作流（Deploy Jekyll with GitHub Pages dependencies preinstalled）。有能力的朋友可选择自行编写 GitHub Actions 工作流或采用“从分支进行发布”，关于发布源的设置详见官方文档 [配置 GitHub Pages 站点的发布源 - GitHub 文档](https://docs.github.com/zh/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow)
+**Step3**：在“Build and deployment”部分的“Suorce”处选择GitHub Actions即可设置使用 GitHub Actions 工作流来发布站点，笔者使用了GitHub提供的入门工作流（GitHub Pages Jekyll）。有能力的朋友可选择自行编写 GitHub Actions 工作流或采用“从分支进行发布”，关于发布源的设置详见官方文档 [配置 GitHub Pages 站点的发布源 - GitHub 文档](https://docs.github.com/zh/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow)
 
 ### 1.2 设置网页外观
 
@@ -160,7 +161,8 @@ Step2：打开GitHub Publisher 插件的“Text&links”页面，在“Main Text
 ---
 ## 致谢
 
-- 感谢 [Obsidian Mkdocs Publisher (github.com)](https://github.com/ObsidianPublisher) 开发的GitHub Publisher插件。
-- 感谢 [sighingnow (Tao He) (github.com)](https://github.com/sighingnow) 的网页模板。
-- 最初的灵感来自于 [Digital Garden (ole.dev)](https://dg-docs.ole.dev/)， 部分设置亦是参考了Digital Garden，在此感谢。
+- 感谢 [Obsidian Mkdocs Publisher](https://github.com/ObsidianPublisher) 开发的GitHub Publisher插件。
+- 感谢 [sighingnow (Tao He)](https://github.com/sighingnow) 的网页主题。
+- 感谢[mzlogin (Zhuang Ma)](https://github.com/mzlogin)的[GitHub Pages 博客模板](https://github.com/mzlogin/mzlogin.github.io/tree/master)。
+- 最初的灵感来自于 [Digital Garden](https://dg-docs.ole.dev/)， 部分设置亦是参考了Digital Garden，在此感谢。
 - 本文功能实现过程中参考了诸多教程、经验及各类模板，在此一并感谢无私奉献的开源社区创作者。
