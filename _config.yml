@@ -34,7 +34,6 @@ kramdown:
 
 syntax_highlighter_style: colorful
 
-markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
 # permalink:                /:categories/:year-:month-:day-:title:output_ext
@@ -45,9 +44,6 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 page_width: 800px
 
-destination:      ./_site
-incremental:      false
-regenerate:       true
 
 plugins:
   - jekyll-feed
