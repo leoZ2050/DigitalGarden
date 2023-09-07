@@ -6,7 +6,6 @@ email: Leo@github.com
 description: Interesting thoughts share with you
 
 url:              'https://leoz2050.github.io/DigitalGarden/'
-baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
