@@ -1,12 +1,12 @@
-remote_theme: sighingnow/jekyll-gitbook
+theme: minima
 title: Leo's Homepage
+author: Leo
 description: Interesting thoughts share with the world
 
 syntax_highlighter_style: base16.solarized
+
 toc:
     enabled: true
     h_min: 1
     h_max: 3
 
-plugins:
-    - rouge
