@@ -19,7 +19,7 @@ toc:
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 # favicon_path:     /assets/gitbook/images/favicon.ico
 
-syntax_highlighter_style: colorful
+syntax_highlighter_style: base16.solarized.light
 
 
 # Permalinks
